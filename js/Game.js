@@ -181,7 +181,9 @@ class Game {
           }
 
           //alterar a posição da câmera na direção y
-          camera.position.y = cars[index - 1].position.y;
+// ADICIONE A CAMERA NO JOGO 
+
+
         }
       }
 
